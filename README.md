@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Artyoms's GitHub stats](https://github-readme-stats.vercel.app/api?username=remotenode&count_private=true)]([https://github.com/remotenode])
+[![Artyoms's GitHub stats](https://github-readme-stats.vercel.app/api?username=remotenode&count_private=true&show_icons=true)]([https://github.com/remotenode])
 
 <!--
 **remotenode/remotenode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
